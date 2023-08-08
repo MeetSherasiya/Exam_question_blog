@@ -32,7 +32,6 @@ Once `pip` has finished downloading the dependencies:
 And navigate to `http://127.0.0.1:8000/`.
 
 ## User View
-![ScreenShot](/screenshot/bill.png)
 <p>Question Page</p><br>
 <img src="screenshot\examquestion.jpg">
 <br>
