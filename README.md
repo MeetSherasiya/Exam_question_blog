@@ -33,16 +33,16 @@ And navigate to `http://127.0.0.1:8000/`.
 
 #User View
 <p>Question Page</p><br>
-<img src="screenshot/examquestion.png">
+<img src="screenshot/examquestion.jpg">
 <br>
 <p>Answer Page View</p><br>
-<img src="screenshot/answer.png">
+<img src="screenshot/answer.jpg">
 <br>
 
 #Admin View
 <p>Admin Home Page</p><br>
-<img src="screenshot/adminpanel.png">
+<img src="screenshot/adminpanel.jpg">
 <br>
 <p>New Question Add Page</p><br>
-<img src="screenshot/addquestion.png">
+<img src="screenshot/addquestion.jpg">
 
