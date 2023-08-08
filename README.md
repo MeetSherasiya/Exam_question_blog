@@ -31,7 +31,7 @@ Once `pip` has finished downloading the dependencies:
 ```
 And navigate to `http://127.0.0.1:8000/`.
 
-#User View
+## User View
 <p>Question Page</p><br>
 <img src="screenshot/examquestion.jpg">
 <br>
@@ -39,7 +39,7 @@ And navigate to `http://127.0.0.1:8000/`.
 <img src="screenshot/answer.jpg">
 <br>
 
-#Admin View
+## Admin View
 <p>Admin Home Page</p><br>
 <img src="screenshot/adminpanel.jpg">
 <br>
