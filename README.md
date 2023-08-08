@@ -41,7 +41,7 @@ And navigate to `http://127.0.0.1:8000/`.
 
 #Admin View
 <p>Admin Home Page</p><br>
-<img src="screenshot/adminpanel.png">
+<img src="./screenshot/adminpanel.png">
 <br>
 <p>New Question Add Page</p><br>
 <img src="screenshot/addquestion.png">
